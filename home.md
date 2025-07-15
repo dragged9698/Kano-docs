@@ -2,7 +2,7 @@
 title: Home
 description: Homepage for Kano's Wiki
 published: true
-date: 2025-07-15T15:25:07.298Z
+date: 2025-07-15T15:27:46.950Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-15T04:57:33.724Z
