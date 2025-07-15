@@ -2,14 +2,14 @@
 title: Home
 description: Homepage for Kano's Wiki
 published: true
-date: 2025-07-15T15:04:00.740Z
+date: 2025-07-15T15:13:43.891Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-15T04:57:33.724Z
 ---
 
 # Game Features
-> Welcome to the one and only destination you need for all things related to Kano! The wiki is currently under construction, but feel free to make any contributions either through directly through here or via github. 
+> Welcome to the one and only destination you need for all things related to Kano! The wiki is currently under construction, but feel free to make any contributions either through here or via github. 
 {.is-info}
 ## Core Gameplay
 - [<img class="items" src="https://oldschool.runescape.wiki/images/Inventory.png?d4795" width="30" height="27">Items *Custom items that were implemented and developed by and exclusively for Kano*](/items/index)
