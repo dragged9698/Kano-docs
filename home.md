@@ -2,7 +2,7 @@
 title: Home
 description: Homepage for Kano's Wiki
 published: true
-date: 2025-07-15T14:47:08.830Z
+date: 2025-07-15T15:01:03.559Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-15T04:57:33.724Z
@@ -12,6 +12,7 @@ dateCreated: 2025-07-15T04:57:33.724Z
 > Welcome to the one and only destination you need for all things related to Kano! The wiki is currently under construction, but feel free to make any contributions either through directly through here or via github. 
 {.is-info}
 ## Core Gameplay
+### Items
 - [<img class="items" src="https://oldschool.runescape.wiki/images/Inventory.png?d4795" width="30" height="27">Items *Custom items that were implemented and developed by and exclusively for Kano*](/items/index)
 - [<img class="bosses" src="https://oldschool.runescape.wiki/images/Vorki.png?03aa0" width="29" height="23">Bosses *Challenge Kano's most formidable foes, from the iconic Vorkath to the legendary Xamphur.*](/bosses/index)
 - [<img class="raids" src="https://oldschool.runescape.wiki/images/Olmlet.png?d8722" width="32" height="30">Raids *Dive into Chambers of Xeric, Theatre of Blood, and more to test your teamwork and earn top-tier loot!*](/bosses/index)
