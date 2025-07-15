@@ -2,7 +2,7 @@
 title: Home
 description: Homepage for Kano's Wiki
 published: true
-date: 2025-07-15T07:08:26.569Z
+date: 2025-07-15T07:10:46.269Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-15T04:57:33.724Z
@@ -28,9 +28,9 @@ dateCreated: 2025-07-15T04:57:33.724Z
 - [⚙️ Mechanics *Systems and mechanics that exist in the base game of Oldschool Runescape*](/Base/Mechanics/index)
 {.links-list}
 # Community
-- [🗺️ Guides *Official and unofficial guides made by the Kano team and the community*](/Base/Items/index)
+- [🗺️ Guides *Official and unofficial guides made by the Kano team and the community*](/Wiki/Guides/index)
 {.links-list}
-- [🎉 Events *Officially ran and player-ran events to spice things up*](/Base/Monsters/index)
+- [🎉 Events *Officially ran and player-ran events to spice things up*](/Wiki/Events/index)
 {.links-list}
-- [✒️ Contributors *Pay homage to our wonderful contributors! Thanks for everything you do for Kano!*](/Base/Mechanics/index)
+- [✒️ Contributors *Pay homage to our wonderful contributors! Thanks for everything you do for Kano!*](/Wiki/Contributors/index)
 {.links-list}
